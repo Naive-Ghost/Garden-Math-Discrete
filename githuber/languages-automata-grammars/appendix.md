@@ -1,0 +1,48 @@
+# 附录
+
+## 术语表
+  - 字母表 alphabet
+  - 字符串 words
+  - 空串 empty word
+  - 连接 concatenation
+  - 子串 subword
+  - 前缀 intial segment
+  - 自由半群 free semigroup
+  - 自由幺半群 free monoid
+  - 形式语言 language
+  - 形式语言的连接 concatenation of languages
+  - 形式语言的幂 powers of a language
+  - Kleene闭包 Kleene closure
+  - 正则表达 regular expression
+  - 正则语言 regular language
+  - 有限状态自动机 finite state automata (FSA)
+  - Pumping引理 Pumping Lemma
+  - 形式语法 grammar
+  - 词汇 vocabulary
+  - 终结元 terminal
+  - 非终结元 non-ternimal
+  - 起始符 start symbol
+  - 产生式的有限集 finite set of productions
+  - 形式语法的类型 types of grammar
+  - Noam Chomsky分类法
+  - Type 0 grammar
+  - Type 1 grammar
+  - Type 2 grammar
+  - Type 3 grammar
+  - 上下文相关语法 context-sensitive grammar
+  - 上下文无关语法 context-free grammar
+  - 正则语法 regular grammar
+  - 上下文无关语法的导出树 derivation trees of context-free grammars
+  - 自动机 automata
+  - Pushdown自动机 Pushdown Automata
+  - 线性有界自动机 Linear Bounded Automata
+  - Turing自动机 Turing Machine
+  - 有限状态机 finite state machine
+  - 状态表 State Table
+  - 状态图 State Diagram
+  - Gödel数 Gödel numbers
+  - 表达 expression
+  - 带表达 tape expression
+  - 格局 picture
+  - 终结 terminal
+  - 可计算的 computable
